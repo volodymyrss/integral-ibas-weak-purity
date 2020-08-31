@@ -1,5 +1,7 @@
 # INTEGRAL IBAS WEAK alert stream purity
 
+As extracted from https://gcn.gsfc.nasa.gov/integral_grbs.html.
+
 See [IBAS_Weak.ipynb](IBAS_Weak.ipynb) for the analysis.
 
 IBAS Weak stream usually filters out the main ghosts, but misses secondary ones, which are prominent in the case
